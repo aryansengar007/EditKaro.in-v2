@@ -4,7 +4,7 @@
 <!--                   ANIMATED WAVE HEADER                         -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,40:8B5CF6,80:06B6D4,100:06B6D4&height=220&section=header&text=Editkaro.in&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Transforming%20Content%20Into%20Viral%20Stories%20%E2%80%94%20React%20%7C%20GSAP%20%7C%20Framer%20Motion&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,40:8B5CF6,80:06B6D4,100:06B6D4&height=220&section=header&text=Editkaro.in-v2&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Transforming%20Content%20Into%20Viral%20Stories%20%E2%80%94%20React%20%7C%20GSAP%20%7C%20Framer%20Motion&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                  ANIMATED TYPING TAGLINE                       -->
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="assets_readme/hero.png" alt="Editkaro.in site preview" width="92%"/>
+[![Site Preview](assets_readme/hero.png)](https://editkaro-v2.netlify.app/)
 
 *Add a screenshot of the hero section at `assets_readme/hero.png` to populate this preview.*
 
