@@ -180,7 +180,7 @@ Home  ·  Portfolio  ·  About  ·  Team  ·  Contact  ·  Privacy Policy  ·  T
 ## 📁 Project Structure
 
 ```
-editkaro-website/
+EditKaro.in-v2/
 │
 ├── 📄 index.html                     ← Entry HTML, SEO meta, OG/Twitter tags, JSON-LD, fonts
 ├── 📦 package.json                   ← Dependencies & scripts
@@ -243,13 +243,13 @@ editkaro-website/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/aryansengar007/editkaro-website.git
+git clone https://github.com/aryansengar007/EditKaro.in-v2.git
 ```
 
 **2. Navigate into the project folder**
 
 ```bash
-cd editkaro-website
+cd EditKaro.in-v2
 ```
 
 **3. Install dependencies**
