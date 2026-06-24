@@ -10,7 +10,7 @@
 <!--                  ANIMATED TYPING TAGLINE                       -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Premium+Video+Editing+%26+Social+Media+Marketing;React+%2B+Vite+%2B+Tailwind+%2B+GSAP;Custom+Cursor+%7C+Lenis+Scroll+%7C+Cinematic+Preloader;10+Services+%7C+9+Portfolio+Categories+%7C+Lightbox+Previews;Fully+Responsive+%7C+SEO+Ready+%7C+Production+Build+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Premium+Video+Editing+%26+Social+Media+Marketing;React+%2B+Vite+%2B+Tailwind+%2B+Framer+Motion+%2B+GSAP;Custom+Cursor+%7C+Lenis+Scroll+%7C+Cinematic+Preloader;10+Services+%7C+9+Portfolio+Categories+%7C+Lightbox+Previews;Fully+Responsive+%7C+SEO+Ready+%7C+Production+Build+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
 
