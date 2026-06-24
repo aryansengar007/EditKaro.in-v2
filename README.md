@@ -10,7 +10,7 @@
 <!--                  ANIMATED TYPING TAGLINE                       -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Premium+Video+Editing+%26+Social+Media+Marketing;React+%2B+Vite+%2B+Tailwind+%2B+Framer+Motion+%2B+GSAP;Custom+Cursor+%7C+Lenis+Scroll+%7C+Cinematic+Preloader;10+Services+%7C+9+Portfolio+Categories+%7C+Lightbox+Previews;Fully+Responsive+%7C+SEO+Ready+%7C+Production+Build+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Premium+Video+Editing+%26+Social+Media+Marketing;React+%2B+Vite+%2B+Tailwind+%2B+GSAP;Custom+Cursor+%7C+Lenis+Scroll+%7C+Cinematic+Preloader;10+Services+%7C+9+Portfolio+Categories+%7C+Lightbox+Previews;Fully+Responsive+%7C+SEO+Ready+%7C+Production+Build+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
 
@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-Motion-8B5CF6?style=flat-square&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![Lenis](https://img.shields.io/badge/Lenis-Smooth%20Scroll-1E1B4B?style=flat-square)
 ![React Router](https://img.shields.io/badge/React%20Router-6-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
