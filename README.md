@@ -61,8 +61,6 @@
 
 [![Site Preview](assets_readme/hero.png)](https://editkaro-v2.netlify.app/)
 
-*Add a screenshot of the hero section at `assets_readme/hero.png` to populate this preview.*
-
 </div>
 
 <br/>
